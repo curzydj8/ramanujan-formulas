@@ -5,7 +5,7 @@
 ## 站点事实（已核实）
 
 - **177 条发现记录**，分 **37 个分类**（/discoveries 索引页自述「177 entries shown from 177 detailed discovery and contribution-family records」，分类计数相加亦为 177）。
-- /about 另提到 **61 条 formula records**，位置尚未定位，待查。
+- /about 另提到 **61 条 formula records**，已定位：即 chunk 中带公式字段的 61 条（116 条无公式，与 177 总数吻合）。
 - 公式以 **KaTeX 排版**呈现（可选中，配有 Formula permalink 与 Copy LaTeX 按钮），不是图片；但文字抓取抓不到公式面板，须用浏览器逐页读。
 - **并非每条都有单一公式**：contribution-family / concept 类条目明确写着「This is a contribution-family entry; no single canonical formula is asserted here.」
 - 站内条目状态多为 **needs-review**，且本站自述不声称已转录或核实约 3,900 条笔记结果中的每一条。**站内公式须与 Berndt 五卷核对后才标「已核对」**，未核对的只标来源。
@@ -70,7 +70,8 @@
 | Ramanujan Theta Functions（12） | 已提取（6 条公式，6 条无单一公式） |
 | Modular Equations and Elliptic Functions（7） | 已提取（1 条公式，6 条无单一公式） |
 | Rogers-Ramanujan Identities（7） | 已提取（2 条公式，5 条无单一公式） |
-| 其余 31 个分类 | 待提取 |
+| Rogers-Ramanujan Continued Fraction（4） | 已提取（3 条公式，1 条无单一公式） |
+| 其余 30 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
