@@ -90,7 +90,8 @@
 | Approximation to the Prime-Counting Function（3） | 已提取（1 条公式，2 条无单一公式） |
 | Diophantine Equations（2） | 已提取（1 条公式，1 条无单一公式） |
 | Nested Radicals（3） | 已提取（1 条公式，2 条无单一公式） |
-| 其余 11 个分类 | 待提取 |
+| Approximations to Constants（1） | 已提取（0 条公式，1 条无单一公式） |
+| 其余 10 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
