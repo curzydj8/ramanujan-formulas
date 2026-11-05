@@ -73,7 +73,8 @@
 | Rogers-Ramanujan Continued Fraction（4） | 已提取（3 条公式，1 条无单一公式） |
 | Other Continued Fractions（8） | 已提取（1 条公式，7 条无单一公式） |
 | q-Series and Basic Hypergeometric Series（13） | 已提取（3 条公式，10 条无单一公式） |
-| 其余 28 个分类 | 待提取 |
+| Ramanujan's Tau Function（8） | 已提取（7 条公式，1 条无单一公式） |
+| 其余 27 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
