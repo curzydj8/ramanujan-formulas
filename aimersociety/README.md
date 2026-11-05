@@ -100,7 +100,7 @@
 | Combinatorial Identities（3） | 已提取（0 条公式，3 条无单一公式） |
 | Magic Squares（2） | 已提取（2 条公式，0 条无单一公式） |
 | Named Constants Connected with Ramanujan（4） | 已提取（3 条公式，1 条无单一公式） |
-| 其余 1 个分类 | 待提取 |
+| Broader Named Concepts Resulting from His Work（4） | 已提取（0 条公式，4 条无单一公式） |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
