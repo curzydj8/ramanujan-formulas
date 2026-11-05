@@ -69,7 +69,8 @@
 | Formulas for pi（7） | 已提取（1 条公式，6 条无单一公式） |
 | Ramanujan Theta Functions（12） | 已提取（6 条公式，6 条无单一公式） |
 | Modular Equations and Elliptic Functions（7） | 已提取（1 条公式，6 条无单一公式） |
-| 其余 32 个分类 | 待提取 |
+| Rogers-Ramanujan Identities（7） | 已提取（2 条公式，5 条无单一公式） |
+| 其余 31 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
