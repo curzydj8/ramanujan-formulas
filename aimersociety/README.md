@@ -82,7 +82,8 @@
 | Definite Integrals and Integral Transforms（4） | 已提取（1 条公式，3 条无单一公式） |
 | Gamma-Function Identities（4） | 已提取（1 条公式，3 条无单一公式） |
 | Ramanujan's Factorial Approximation（3） | 已提取（1 条公式，2 条无单一公式） |
-| 其余 19 个分类 | 待提取 |
+| Ramanujan Summation of Divergent Series（3） | 已提取（1 条公式，2 条无单一公式） |
+| 其余 18 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
