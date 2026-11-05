@@ -76,7 +76,8 @@
 | Ramanujan's Tau Function（8） | 已提取（7 条公式，1 条无单一公式） |
 | Ramanujan Sums（2） | 已提取（2 条公式，0 条无单一公式） |
 | Highly Composite Numbers（2） | 已提取（1 条公式，1 条无单一公式） |
-| 其余 25 个分类 | 待提取 |
+| Ramanujan's Master Theorem（2） | 已提取（1 条公式，1 条无单一公式） |
+| 其余 24 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
