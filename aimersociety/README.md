@@ -81,7 +81,8 @@
 | Infinite Products（5） | 已提取（2 条公式，3 条无单一公式） |
 | Definite Integrals and Integral Transforms（4） | 已提取（1 条公式，3 条无单一公式） |
 | Gamma-Function Identities（4） | 已提取（1 条公式，3 条无单一公式） |
-| 其余 20 个分类 | 待提取 |
+| Ramanujan's Factorial Approximation（3） | 已提取（1 条公式，2 条无单一公式） |
+| 其余 19 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
