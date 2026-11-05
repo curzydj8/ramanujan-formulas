@@ -46,6 +46,8 @@ ramanujan-formulas/
 │   └── M14-algebraic-equations.md  # 代数方程：丢番图方程、代数关系
 ├── berndt/
 │   └── README.md              # Berndt 五卷整理本：3,254 条逐条收录索引
+├── aimersociety/
+│   └── README.md              # AIMER 站：177 条发现记录、37 个分类的公式收录索引
 ├── data/
 │   └── modules.json           # 模块目录（机器可读）
 └── index.html                 # 静态导览页（GitHub Pages）
@@ -75,6 +77,10 @@ ramanujan-formulas/
 ## Berndt 整理本逐条收录
 
 除主题模块外，另有一条按**出版物结构**的收录线：`berndt/README.md`。TIFR 1957 年出的是手稿影印版（无整理无证明），Berndt 的 Springer 五卷（1985–1998）是逐条注释与证明的学术整理本，共 3,254 条。索引已按五卷 38 章列好，一章一批逐条填；收录只写公式陈述与自写证明思路，不照抄整理本正文与证明。
+
+## AIMER 站公式收录
+
+另有一条按**网站结构**的收录线：`aimersociety/README.md`。ramanujan.aimersociety.com（The Ramanujan Universe）有 177 条发现记录、37 个分类，公式以 KaTeX 面板呈现；只收公式，不收传记与解说。站内条目多为 needs-review 状态，公式须与 Berndt 五卷核对后才标已核对。一个分类一批逐页提取。
 
 ## 相关仓库
 
