@@ -99,7 +99,8 @@
 | Near-Integer Phenomena（3） | 已提取（1 条公式，2 条无单一公式） |
 | Combinatorial Identities（3） | 已提取（0 条公式，3 条无单一公式） |
 | Magic Squares（2） | 已提取（2 条公式，0 条无单一公式） |
-| 其余 2 个分类 | 待提取 |
+| Named Constants Connected with Ramanujan（4） | 已提取（3 条公式，1 条无单一公式） |
+| 其余 1 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
