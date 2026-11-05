@@ -85,7 +85,8 @@
 | Ramanujan Summation of Divergent Series（3） | 已提取（1 条公式，2 条无单一公式） |
 | Bernoulli Numbers（3） | 已提取（1 条公式，2 条无单一公式） |
 | Divisor Functions（5） | 已提取（2 条公式，3 条无单一公式） |
-| 其余 16 个分类 | 待提取 |
+| Representation of Integers by Quadratic Forms（4） | 已提取（1 条公式，3 条无单一公式） |
+| 其余 15 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
