@@ -67,7 +67,8 @@
 | Partition Theory（13） | 已提取（5 条公式，8 条无单一公式） |
 | Mock Theta Functions（13） | 已提取（2 条公式，11 条无单一公式） |
 | Formulas for pi（7） | 已提取（1 条公式，6 条无单一公式） |
-| 其余 34 个分类 | 待提取 |
+| Ramanujan Theta Functions（12） | 已提取（6 条公式，6 条无单一公式） |
+| 其余 33 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
