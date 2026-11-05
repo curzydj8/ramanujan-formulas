@@ -22,13 +22,17 @@
 
 | 卷 | 年份 | 覆盖范围 | 章节 | 状态 |
 |---|---|---|---|---|
-| Part I | 1985 | 第二本笔记第 1–9 章 + Quarterly Reports | Ch. 1 Magic Squares（幻方）；Ch. 2 Sums Related to the Harmonic Series or the Inverse Tangent Function；Ch. 3 Combinatorial Analysis and Series Inversions；Ch. 4 Iterates of the Exponential Function and an Ingenious Formal Technique；Ch. 5 Eulerian Polynomials and Numbers, Bernoulli Numbers, and the Riemann Zeta-Function；Ch. 6 Ramanujan's Theory of Divergent Series；Ch. 7 Sums of Powers, Bernoulli Numbers, and the Gamma Function；Ch. 8 Analogues of the Gamma Function；Ch. 9 Infinite Series Identities, Transformations, and Evaluations | 待填 |
+| Part I | 1985 | 第二本笔记第 1–9 章 + Quarterly Reports | Ch. 1 Magic Squares（幻方）；Ch. 2 Sums Related to the Harmonic Series or the Inverse Tangent Function；Ch. 3 Combinatorial Analysis and Series Inversions；Ch. 4 Iterates of the Exponential Function and an Ingenious Formal Technique；Ch. 5 Eulerian Polynomials and Numbers, Bernoulli Numbers, and the Riemann Zeta-Function；Ch. 6 Ramanujan's Theory of Divergent Series；Ch. 7 Sums of Powers, Bernoulli Numbers, and the Gamma Function；Ch. 8 Analogues of the Gamma Function；Ch. 9 Infinite Series Identities, Transformations, and Evaluations | Ch. 1 已填（见 part-1-chapter-1-magic-squares.md：Entry 6 (i)(ii) 已核对 + 第 1–8 节构造与例题；Entry 1–5 编号待核对），Ch. 2–9 待填 |
 | Part II | 1989 | 第二本笔记第 10–15 章 | Ch. 10 Hypergeometric Series, I；Ch. 11 Hypergeometric Series, II；Ch. 12 Continued Fractions；Ch. 13 Integrals and Asymptotic Expansions；Ch. 14 Infinite Series；Ch. 15 Asymptotic Expansions and Modular Forms | 待填 |
 | Part III | 1991 | 第二本笔记第 16–21 章 | Ch. 16 q-Series and Theta-Functions；Ch. 17 Fundamental Properties of Elliptic Functions；Ch. 18 The Jacobian Elliptic Functions；Ch. 19 Modular Equations of Degrees 3, 5, and 7 and Associated Theta-Function Identities；Ch. 20 Modular Equations of Higher and Composite Degrees；Ch. 21 Eisenstein Series | 待填 |
 | Part IV | 1994 | 第二本笔记 100 页未组织内容 + 第三本笔记 33 页未组织内容 + 第一本笔记 16 章 | Ch. 22 Elementary Results；Ch. 23 Number Theory；Ch. 24 Ramanujan's Theory of Prime Numbers；Ch. 25 Theta-Functions and Modular Equations；Ch. 26 Inversion Formulas for the Lemniscate and Allied Functions；Ch. 27 q-Series；Ch. 28 Integrals；Ch. 29 Special Functions；Ch. 30 Partial Fraction Expansions；Ch. 31 Elementary and Miscellaneous Analysis | 待填 |
 | Part V | 1998 | 第二、三本笔记剩余 133 页未组织内容 + 第一本笔记 198 页未组织内容 | Ch. 32 Continued Fractions；Ch. 33 Ramanujan's Theories of Elliptic Functions to Alternative Bases；Ch. 34 Class Invariants and Singular Moduli；Ch. 35 Values of Theta-Functions；Ch. 36 Modular Equations and Theta-Function Identities in Notebook 1；Ch. 37 Approximations and Asymptotic Expansions；Ch. 38 Miscellaneous Results in the First Notebook | 待填 |
 
 注：Part V 年份部分书目著录为 1997 年 12 月；各卷条目数待逐卷核对原书目录后补（总计 3,254 条已核实）。
+
+## 填写进度
+
+- **Part I Ch. 1 Magic Squares**（2026-11-05，已填）：part-1-chapter-1-magic-squares.md，178 行。内容：8 节全收；正式编号的 Entry 只有 Entry 6 (i)(ii)（pp. 20–21，已核对）；第 1–5 节的一般构造暂记 Entry 1–5，编号待核对（p. 17 原文未能直接读取）；第 7–8 节为应用与例题，无新 Entry。待核对五项：Entry 1–5 编号、p. 17 全文、Entry 6(i) 恒等式的确切表述、Entry 5 条件式中的 $3D$、生日幻方在本章的位置。下一章：Part I Ch. 2。
 
 ## 收录规则（与全仓库一致）
 
