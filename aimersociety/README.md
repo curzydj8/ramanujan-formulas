@@ -93,7 +93,8 @@
 | Approximations to Constants（1） | 已提取（0 条公式，1 条无单一公式） |
 | Asymptotic Expansions（1） | 已提取（0 条公式，1 条无单一公式） |
 | Ramanujan Polynomials（3） | 已提取（0 条公式，3 条无单一公式） |
-| 其余 8 个分类 | 待提取 |
+| Odd Zeta Values（4） | 已提取（1 条公式，3 条无单一公式） |
+| 其余 7 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
