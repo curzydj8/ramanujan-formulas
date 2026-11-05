@@ -142,7 +142,22 @@ async function loadChapter(idx) {
     const resp = await fetch(it.file);
     if (!resp.ok) throw new Error(' not found');
     let md = await resp.text();
+    // 先把数学公式抽出来占位，再转 Markdown：否则 marked 会把公式里的 \, 当成转义（变逗号）、
+    // 把 _\infty 当成强调标记，导致整行公式无法渲染（M03 Rogers–Ramanujan 恒等式、M07 同款已中招）
+    const maths = [];
+    md = md.replace(/\$\$([\s\S]+?)\$\$/g, function (m, c) {
+      maths.push({ display: true, tex: c });
+      return '\n@@MATH' + (maths.length - 1) + '@@\n';
+    });
+    md = md.replace(/\$([^$\n]+?)\$/g, function (m, c) {
+      maths.push({ display: false, tex: c });
+      return '@@MATH' + (maths.length - 1) + '@@';
+    });
     let html = marked.parse(md);
+    maths.forEach(function (m, i) {
+      const tex = m.tex.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      html = html.split('@@MATH' + i + '@@').join(m.display ? '$$' + tex + '$$' : '$' + tex + '$');
+    });
     content.innerHTML = html;
     renderMathInElement(content, {
       delimiters: [
