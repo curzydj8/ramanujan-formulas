@@ -28,6 +28,12 @@ ramanujan-formulas/
 ├── lost-notebook.md           # 失落笔记：138 面、600+ 公式、五卷整理
 ├── papers.md                  # 37 篇正式发表论文目录
 ├── modules/
+│   ├── M01-number-theory.md   # 数论：素数、整数、除数函数
+│   ├── M02-infinite-series.md # 无穷级数：收敛、发散、级数变换
+│   ├── M03-continued-fractions.md  # 连分数：拉马努金连分数
+│   ├── M04-pi-formulas.md     # π 的公式：π 的快速收敛级数
+│   ├── M05-partition-function.md  # 分拆函数：整数分拆、同余关系
+│   ├── M06-modular-forms.md   # 模形式：模方程、模函数
 │   ├── M07-q-series.md        # q-级数：q-级数恒等式
 │   ├── M08-mock-theta.md     # Mock Theta Functions：模拟 theta 函数
 │   ├── M09-integrals.md      # 积分：定积分、特殊积分
@@ -41,10 +47,16 @@ ramanujan-formulas/
 └── index.html                 # 静态导览页（GitHub Pages）
 ```
 
-## 模块一览（M07–M14）
+## 模块一览（M01–M14）
 
 | 模块 | 主题 | 内容 |
 |---|---|---|
+| M01 | 数论 | 素数、整数、除数函数 |
+| M02 | 无穷级数 | 收敛、发散、级数变换 |
+| M03 | 连分数 | 拉马努金连分数 |
+| M04 | π 的公式 | π 的快速收敛级数 |
+| M05 | 分拆函数 | 整数分拆、同余关系 |
+| M06 | 模形式 | 模方程、模函数 |
 | M07 | q-级数 | q-级数恒等式 |
 | M08 | Mock Theta Functions | 模拟 theta 函数 |
 | M09 | 积分 | 定积分、特殊积分 |
@@ -54,7 +66,7 @@ ramanujan-formulas/
 | M13 | 组合数学 | 组合恒等式 |
 | M14 | 代数方程 | 丢番图方程、代数关系 |
 
-注：编号 M07–M14 为本仓库的模块编号；M01–M06 不在本批范围内，如后续补齐再按同一体例加入。
+注：编号 M01–M14 为本仓库按数学领域建立的完整目录。模块之间有意重叠（例如 M04 的 1/π 级数同时出现在 M11，M05 的分拆同余式同时出现在 M13），各文件内已互链，不去重。
 
 ## 相关仓库
 
