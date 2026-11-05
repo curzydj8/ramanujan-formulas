@@ -78,7 +78,8 @@
 | Highly Composite Numbers（2） | 已提取（1 条公式，1 条无单一公式） |
 | Ramanujan's Master Theorem（2） | 已提取（1 条公式，1 条无单一公式） |
 | Infinite Series（1） | 已提取（0 条公式，1 条无单一公式） |
-| 其余 23 个分类 | 待提取 |
+| Infinite Products（5） | 已提取（2 条公式，3 条无单一公式） |
+| 其余 22 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
