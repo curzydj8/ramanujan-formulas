@@ -42,7 +42,7 @@
   #content li { margin: 6px 0; }
   #content hr { border: none; border-top: 1px solid var(--border); margin: 36px 0; }
   #content img { max-width: 100%; }
-  .katex-display { overflow-x: auto; padding: 8px 0; }
+  .katex-display { overflow-x: auto; overflow-y: hidden; max-width: 100%; padding: 8px 0; }
 
   #menu-btn { display: none; position: fixed; top: 16px; left: 16px; z-index: 200; background: var(--sidebar-bg); color: var(--gold); border: 1px solid var(--gold); border-radius: 8px; padding: 10px 14px; font-size: 18px; cursor: pointer; }
   @media (max-width: 768px) {
@@ -50,6 +50,9 @@
     #sidebar.open { transform: translateX(0); }
     #main { margin-left: 0; padding: 72px 20px 80px; }
     #menu-btn { display: block; }
+    /* 窄屏修：公式字号缩小一档，含行内公式的段落可横向滚动，不再被截断 */
+    #content .katex { font-size: .88em; }
+    #content p { overflow-x: auto; }
   }
   #loading { text-align: center; padding: 100px 0; color: #999; }
   .nav-links { display: flex; justify-content: space-between; margin-top: 60px; padding-top: 24px; border-top: 1px solid var(--border); }
