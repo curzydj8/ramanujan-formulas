@@ -97,7 +97,8 @@
 | Eisenstein and Modular Series（7） | 已提取（5 条公式，2 条无单一公式） |
 | Singular Moduli and Class Invariants（5） | 已提取（0 条公式，5 条无单一公式） |
 | Near-Integer Phenomena（3） | 已提取（1 条公式，2 条无单一公式） |
-| 其余 4 个分类 | 待提取 |
+| Combinatorial Identities（3） | 已提取（0 条公式，3 条无单一公式） |
+| 其余 3 个分类 | 待提取 |
 
 ## 177 条完整清单（按站内 Featured 排序）
 
