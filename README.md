@@ -44,6 +44,8 @@ ramanujan-formulas/
 │   ├── M12-asymptotics.md    # 渐近分析：近似公式、渐近展开
 │   ├── M13-combinatorics.md  # 组合数学：组合恒等式
 │   └── M14-algebraic-equations.md  # 代数方程：丢番图方程、代数关系
+├── berndt/
+│   └── README.md              # Berndt 五卷整理本：3,254 条逐条收录索引
 ├── data/
 │   └── modules.json           # 模块目录（机器可读）
 └── index.html                 # 静态导览页（GitHub Pages）
@@ -69,6 +71,10 @@ ramanujan-formulas/
 | M14 | 代数方程 | 丢番图方程、代数关系 |
 
 注：编号 M01–M14 为本仓库按数学领域建立的完整目录。模块之间有意重叠（例如 M04 的 1/π 级数同时出现在 M11，M05 的分拆同余式同时出现在 M13），各文件内已互链，不去重。
+
+## Berndt 整理本逐条收录
+
+除主题模块外，另有一条按**出版物结构**的收录线：`berndt/README.md`。TIFR 1957 年出的是手稿影印版（无整理无证明），Berndt 的 Springer 五卷（1985–1998）是逐条注释与证明的学术整理本，共 3,254 条。索引已按五卷 38 章列好，一章一批逐条填；收录只写公式陈述与自写证明思路，不照抄整理本正文与证明。
 
 ## 相关仓库
 
