@@ -61,7 +61,7 @@ $$f(x) = \sum_{n=0}^{\infty} a_n h^n \varphi^{(n)}(x), \qquad (1.1)$$
 
 **状态。**已证明（取 $\varphi(x) = e^x$，由 (1.1) 得 $\sum a_n h^n = h/(e^h-1)$，与 (I1) 比较即得）。注：若 $f$ 是 Entry 1(i) 或 1(ii) 的差分方程的解，则 (1.1) 右端的级数一般发散；Nörlund [2, pp. 58–60] 证明在适当条件下它在 $h \to 0$ 时渐近地表示该函数。
 
-**对照。**Bernoulli 数的生成函数见 M01（**本条即 M01 缺失的 Bernoulli 数定义所由来的条目**，见文末「与 M 模块对照」）；差分方程与 Euler–Maclaurin 公式见 M12。
+**对照。**Bernoulli 数的生成函数见 M01（**本条即已补入 M01.3 的 Bernoulli 数定义所由来的条目**，见文末「与 M 模块对照」）；差分方程与 Euler–Maclaurin 公式见 M12。
 
 ## Entry 1(ii)——差分方程的展开系数（$1-2^n$ 因子）
 
@@ -238,7 +238,7 @@ $$\frac{x}{e^x-1} = \sum_{n=0}^{\infty} \frac{B_n x^n}{n!}, \qquad |x| < 2\pi. \
 
 **状态。**定义。由此 $B_0 = 1$、$B_1 = -1/2$、$B_2 = 1/6$、$B_4 = -1/30$、$B_6 = 1/42$、$B_8 = -1/30$、$B_{10} = 5/66$、$B_{12} = -691/2730$，奇数项 $B_{2k+1} = 0$（$k \ge 1$）。数值复核（精确分数）：$B_n$（$n \le 38$）与 Abramowitz–Stegun 表一致。
 
-**对照。**这就是 **M01 缺失的 Bernoulli 数定义**（M02/M06 引用它并写「见 M01.3」，但 M01 全文未给定义；见文末「与 M 模块对照」）。Euler 数的对应定义见导言 (I2)：$\sec x = \sum_{n=0}^{\infty} (-1)^n E_{2n} x^{2n}/(2n)!$。
+**对照。**这就是 **M01 的 Bernoulli 数定义**（2026-11-06 已补入 M01.3；此前 M02/M06 引用它并写「见 M01.3」，但 M01 全文未给定义；见文末「与 M 模块对照」）。Euler 数的对应定义见导言 (I2)：$\sec x = \sum_{n=0}^{\infty} (-1)^n E_{2n} x^{2n}/(2n)!$，已随同补入 M01.3。
 
 ## Entry 10——$h/(e^h+1)$ 的展开
 
@@ -623,7 +623,7 @@ $$\prod_p (1+a_p) = 1 + \sum_{\substack{n \\ n=p_1\cdots p_k}} a_{p_1}\cdots a_{
 
 ## 与 M 模块对照 / 待补
 
-- **M01 伯努利数定义缺口（本章已定位定义出处，待日后补入 M01）：**M02/M06 引用 Bernoulli 数并写「见 M01.3」，但 M01 全文未给 Bernoulli 数定义。本章 Entry 9 即该定义的出处：Berndt 导言 (I1)，$x/(e^x-1) = \sum_{n=0}^{\infty} B_n x^n/n!$（$|x| < 2\pi$），见 Abramowitz–Stegun [1, p. 804]。补入 M01 时应同时补 Euler 数的定义 (I2)（$\sec x = \sum_{n=0}^{\infty} (-1)^n E_{2n} x^{2n}/(2n)!$）与 von Staudt–Clausen 定理（Entry 19(iii)、Entry 20）。**本章文件只记录出处，不顺手改 M01。**
+- **M01 伯努利数定义缺口（2026-11-06 已补入 M01，本地已改、待推送）：**M02/M06 引用 Bernoulli 数并写「见 M01.3」，但 M01 全文未给 Bernoulli 数定义。本章 Entry 9 即该定义的出处：Berndt 导言 (I1)，$x/(e^x-1) = \sum_{n=0}^{\infty} B_n x^n/n!$（$|x| < 2\pi$），见 Abramowitz–Stegun [1, p. 804]。已在 M01.3 补入 Bernoulli 数定义 (I1) 与前 8 个值、Euler 数定义 (I2) 与前 6 个值、$\zeta(2n)$ 的 Euler 公式与 von Staudt–Clausen 定理（Entry 19(iii)、Entry 20）；数值复核：$B_{2n}$（$n \le 6$）与 Abramowitz–Stegun 表一致，von Staudt–Clausen（$n = 1,\dots,6$）恒为整数 1，$\zeta(2n)$ 公式（$n = 1,2,3$）与 mpmath 30 位值差 $< 10^{-30}$。补后 M06「$B_k$ 为 Bernoulli 数（M01.3）」的引用已可查到定义。
 - 其余对照见各条「对照」与小结；$B_s^*$、$E_s^*$ 的推广（Entry 25）与 $\zeta(n)$ 数值表（Entry 26）是 M01–M14 未收的新内容，可供日后扩充 M01 时参考。
 
 ## 待核对清单
