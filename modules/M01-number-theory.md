@@ -118,6 +118,30 @@ $$\zeta(2) = \frac{\pi^2}{6}, \qquad \zeta(4) = \frac{\pi^4}{90}$$
 
 $\zeta(3)$ 为无理数（Apéry，1978），$\zeta(3)$ 是否为超越数未解决。
 
+### Bernoulli 数与 Euler 数
+
+**Bernoulli 数** $B_n$ 由生成函数定义（Berndt Part I 导言 (I1)，见 Part I Ch. 5 Entry 9，p. 119；Abramowitz–Stegun [1, p. 804]）：
+
+$$\frac{x}{e^x-1} = \sum_{n=0}^{\infty} \frac{B_n x^n}{n!}, \qquad |x| < 2\pi$$
+
+由此 $B_0 = 1$、$B_1 = -1/2$、$B_2 = 1/6$、$B_4 = -1/30$、$B_6 = 1/42$、$B_8 = -1/30$、$B_{10} = 5/66$、$B_{12} = -691/2730$；奇数项 $B_{2k+1} = 0$（$k \ge 1$）。这是当代定义，与拉马努金本人的约定不同（Berndt 导言已说明）。
+
+**Euler 数** $E_n$ 由（Berndt Part I 导言 (I2)）：
+
+$$\sec x = \sum_{n=0}^{\infty} (-1)^n \frac{E_{2n} x^{2n}}{(2n)!}, \qquad |x| < \frac{\pi}{2}$$
+
+$E_0 = 1$、$E_2 = -1$、$E_4 = 5$、$E_6 = -61$、$E_8 = 1385$、$E_{10} = -50521$；奇数项 $E_{2n+1} = 0$。
+
+**$\zeta$ 偶数值（Euler 公式）：**
+
+$$\zeta(2n) = (-1)^{n+1} \frac{B_{2n} (2\pi)^{2n}}{2(2n)!} \qquad (n \ge 1)$$
+
+**von Staudt–Clausen 定理**（von Staudt 1840、Clausen 1840；Berndt Part I Ch. 5 Entry 19(iii)，p. 123）：
+
+$$B_{2n} + \sum_{(p-1)\mid 2n} \frac{1}{p} \in \mathbb{Z}$$
+
+求和取遍全部满足 $(p-1)\mid 2n$ 的素数 $p$；即 $B_{2n}$ 的分母恰为这些素数的乘积。另一形式见 Berndt Part I Ch. 5 Entry 20。
+
 ### 函数方程（Riemann，1859）
 
 $$\zeta(s) = 2^s \pi^{s-1} \sin\left(\frac{\pi s}{2}\right) \Gamma(1-s)\, \zeta(1-s)$$
