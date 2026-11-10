@@ -450,7 +450,7 @@ $$\int_{\alpha_1}^{\beta_1} \varphi_1(p,x)\psi_2(q,nx)\,dx = \int_{\alpha_2}^{\b
 
 若 $0 < a < b + \frac{1}{2}$，则
 
-(ii) $\displaystyle \int_0^\infty \left\lvert\frac{\Gamma(a+ix)}{\Gamma(b+1+ix)}\right\rvert^2 dx = \frac{\sqrt{\pi}\,\Gamma(a)\Gamma(a+\frac{1}{2})\Gamma(b-a+\frac{1}{2})}{2\Gamma(b+1)\Gamma(b+\frac{1}{2})\Gamma(b-a+1)}.$$
+(ii) $\displaystyle \int_0^\infty \left\lvert\frac{\Gamma(a+ix)}{\Gamma(b+1+ix)}\right\rvert^2 dx = \frac{\sqrt{\pi}\,\Gamma(a)\Gamma(a+\frac{1}{2})\Gamma(b-a+\frac{1}{2})}{2\Gamma(b+1)\Gamma(b+\frac{1}{2})\Gamma(b-a+1)}.$
 
 这两条优美的公式由拉马努金 [8]（[16]，pp. 57，54）导出，或许是他最著名的积分求值。Barnes [2]，pp. 154，155 在大约同一时间建立了 (i) 的推广；R. Roy [1] 用 Mellin 变换证明了 (ii)。推广（用 Parseval 定理（Titchmarsh [2]，p. 5）、第 19 节推论与 Legendre 倍元公式）：$2\int_0^\infty \lvert\Gamma(a+ix)\Gamma(b+ix)\rvert^2\cos(xy)\,dx = \frac{\pi}{4^{a+b-1}}\Gamma(2a)\Gamma(2b)\int_{-\infty}^\infty \mathrm{sech}^{2a}\frac{u}{2}\,\mathrm{sech}^{2b}\frac{u+y}{2}\,du$（$y \ge 0$；Glaister [1] 说明如何求右端这类积分）。
 
