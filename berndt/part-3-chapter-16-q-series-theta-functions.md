@@ -639,11 +639,11 @@ $$\begin{aligned}
 
 **陈述。** 设 $|q| < 1$，$\theta$、$n$ 为实数。则
 
-$$\begin{aligned}
-\text{(i)}\quad \mathrm{Log}\left[\frac{1 + 2\sum_{k=1}^{\infty}q^{k^2}\cos k\theta}{f(-q^2)}\right] &= 2\sum_{k=1}^{\infty}\frac{(-1)^{k-1}q^k\cos k\theta}{k(1-q^{2k})}, \\
-\text{(ii)}\quad \frac14\mathrm{Log}\left[\frac{\sum_{k=1}^{\infty}(-1)^{k-1}q^{k(k-1)/2}\sin(2k-1)n/\sin n}{\sum_{k=1}^{\infty}(-1)^{k-1}(2k-1)q^{k(k-1)/2}}\right] &= \sum_{k=1}^{\infty}\frac{q^k\sin^2 kn}{k(1-q^k)}, \tag{33.1} \\
-\text{(iii)}\quad 1 + 4\sum_{k=1}^{\infty}\frac{q^k\cos kn}{1+q^{2k}} &= \varphi^2(-q^2)\cdot\frac{1 + 2\sum_{k=1}^{\infty}q^{k^2}\cos kn}{1 + 2\sum_{k=1}^{\infty}(-1)^kq^{k^2}\cos kn}. \tag{33.3}
-\end{aligned}$$
+$$\text{(i)}\quad \mathrm{Log}\left[\frac{1 + 2\sum_{k=1}^{\infty}q^{k^2}\cos k\theta}{f(-q^2)}\right] = 2\sum_{k=1}^{\infty}\frac{(-1)^{k-1}q^k\cos k\theta}{k(1-q^{2k})}.$$
+
+$$\text{(ii)}\quad \frac14\mathrm{Log}\left[\frac{\sum_{k=1}^{\infty}(-1)^{k-1}q^{k(k-1)/2}\sin(2k-1)n/\sin n}{\sum_{k=1}^{\infty}(-1)^{k-1}(2k-1)q^{k(k-1)/2}}\right] = \sum_{k=1}^{\infty}\frac{q^k\sin^2 kn}{k(1-q^k)}. \tag{33.1}$$
+
+$$\text{(iii)}\quad 1 + 4\sum_{k=1}^{\infty}\frac{q^k\cos kn}{1+q^{2k}} = \varphi^2(-q^2)\cdot\frac{1 + 2\sum_{k=1}^{\infty}q^{k^2}\cos kn}{1 + 2\sum_{k=1}^{\infty}(-1)^kq^{k^2}\cos kn}. \tag{33.3}$$
 
 **说明。** (i) 由 Entry 21 的 (21.2) 与 Entry 19 推出；(ii) 由 (i) 与 Entry 22(iii) 推出；(iii) 由 (i)(ii) 与 Entry 25(iii) 推出。(iii) 的右端分子 $1 + 2\sum_{k=1}^{\infty}q^{k^2}\cos kn$ 为 Jacobi 的 $\vartheta_3$ 函数，分母为 $\vartheta_4$ 函数；(iii) 即 $\mathrm{dn}\,u$ 的 Fourier 级数（见书中注记）。另有 Jacobi 的恒等式
 
